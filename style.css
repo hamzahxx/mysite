@@ -1,0 +1,172 @@
+/* MAIN STUFF */
+
+body{
+    text-align: center;
+}
+.b-example-divider{
+    width: 100%;
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-top-width: medium;
+    border-right-width: medium;
+    border-bottom-width: medium;
+    border-left-width: medium;
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+/* FRONTPAGE */
+.fbg{
+    background-color: #98bff6;
+    padding-top: 3%;
+}
+.head{
+    color: #3a8bfc;
+}
+.h1{
+    font-family: 'Satisfy', cursive;
+    font-size: 3rem;
+}
+.h2{
+    font-family:  'Source Code Pro', monospace;
+    font-size: 2rem;
+}
+.cloud{
+    width: 100%;
+    height: 100%;
+}
+.mountain{
+    width: 100%;
+    height: 100%;
+}
+
+/* CARDBLOCK */
+.pblock{
+    margin: 100px 0;
+}
+.profile {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+.profile:hover {
+    box-shadow: 0 8px 16px 0  rgba(0,0,0,0.4);
+}
+.peepme{
+    width: 100%;
+    background-color: #ffffff;
+    margin-top: 12px;
+    padding-bottom: 0;
+}
+.cardtxt{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 1.5rem;
+}
+
+/* FEATURES */
+
+.fblock{
+    margin-top: 100px;
+}
+
+/* MEDIA QUARIES */
+@media (min-width:1200px) {
+    .fbg{
+        padding-top: 5%;
+    }
+
+}
+@media (max-width:1200px) {
+    .fbg{
+        padding-top: 6%;
+    }
+    .mountain{
+        padding-top: 6%;
+    }
+    .sectxt{
+        font-size: 2rem;
+    }
+}
+@media (max-width:1020px) {
+    .fbg{
+        padding-top: 10%;
+    }
+}
+@media (max-width:935px) {
+    .fbg{
+        padding-top: 15%;
+    }
+    .sectxt{
+        font-size: 1.5rem;
+    }
+}
+@media (max-width:853px) {
+    .fbg{
+        padding-top: 17.5%;
+    }
+}
+@media (max-width:853px) {
+    .fbg{
+        padding-top: 12.5%;
+    }
+    .mountain{
+        padding-top: 20%;
+    }
+}
+@media (max-width:775px) {
+    .fbg{
+        padding-top: 12%;
+    }
+    .mountain{
+        padding-top: 25%;
+    }
+}
+@media (max-width:746px) {
+    .fbg{
+        padding-top: 15%;
+    }
+    .mountain{
+        padding-top: 28%;
+    }
+    .sectxt{
+        font-size: 1rem;
+    }
+}
+@media (max-width:697px) {
+    .fbg{
+        padding-top: 15%;
+    }
+    .mountain{
+        padding-top: 35%;
+    }
+}
+@media (max-width:655px) {
+    .fbg{
+        padding-top: 15%;
+    }
+    .mountain{
+        padding-top: 38%;
+    }
+}
+@media (max-width:600px) {
+    .fbg{
+        padding-top: 10%;
+    }
+    .mountain{
+        padding-top: 40%;
+    }
+}
+@media (max-width:576px) {
+    .fbg{
+        padding-top: 15%;
+    }
+    .h1{
+        font-size: 2rem;
+    }
+    .h2{
+        font-size: 1rem;
+    }
+    .mountain{
+        padding-top: 45%;
+    }
+}
