@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **big projects which will help me improve my collaboration skills as well as my portfolio**
 
-- 👨‍💻 All of my projects are available at [https://hamzahxx.github.io/mysite](https://hamzahxx.github.io/projectHamzah)
+- 👨‍💻 All of my projects are available at [projectHamzah](https://hamzahxx.github.io/projectHamzah)
 
 - 💬 Ask me about **bootstrap, git, html, css**
 
@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/team7obito7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="team7obito7" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hamzahxx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamzah chhapra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
